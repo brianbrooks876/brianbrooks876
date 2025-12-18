@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**brianbrooks876/brianbrooks876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Brian, an aspiring data engineer based in Jamaica.
 
-Here are some ideas to get you started:
+I dabble in many areas, utilising technologies such as Python, SQL, PowerBI and R.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also use Adobe Illustrator, Adobe Photoshop, Blender and other tools for more creative works.
+
+This is a fresh profile where I'll be uploading small projects and things I am currently working on. Rest assured everything I upload will be built from scratch, no copy/paste templates.
+
+## Tools and Competencies
+* Python, SQL, PowerBI, R
+* Blender
+* Adobe Illustrator, Adobe Photoshop, Clip Studio Paint
+
+## A Bit About Me
+* 🎨 I'm a lover of the arts, specifically digital illustration
+* 📖 Books are fun, lets connect on Goodreads!
+* ⚙️ I really enjoy improving current workflows
